@@ -1,0 +1,44 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+        <table class="single-info">
+            <tr id="info-author">
+                <td><i class="bi bi-pencil"></i></td>
+                <td>
+                    Authored by {{ .Param "author" }}
+                </td>
+            </tr>
+            <tr id="info-date">
+                <td><i class="bi bi-clock"></i></td>
+                <td>
+                    {{ .PublishDate.Format "Monday, 2 January 2006 "}}
+                </td>
+            </tr>
+            <tr id="info-reading-time">
+                <td><i class="bi bi-hourglass"></i></td>
+                <td>
+                    {{ $readingTime := .ReadingTime }}
+                    {{ $readingTime }}
+                    {{ if gt $readingTime 1 }}
+                        minutes
+                    {{ else }}
+                        minute
+                    {{ end }}
+                    read
+                </td>
+            </tr>
+        </table>
+    </header>
+    <figure>
+        <img src='{{ .Param "cover" }}'>
+    </figure>
+    {{ .Content }}
+    <strong>Tags:</strong> {{ partial "taglist-small.html" . -}}
+    <br>
+    <br>
+    <!--{{ partial "nextprev.html" . -}}-->
+    {{ template "_internal/disqus.html" . }}
+    {{ partial "related.html" . -}}
+</article>

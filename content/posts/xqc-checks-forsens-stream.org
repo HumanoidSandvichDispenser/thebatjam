@@ -1,0 +1,84 @@
+---
+title: "Streamer xQc Visits Forsen's Stream"
+date: 2022-07-12T23:44:03-07:00
+categories:
+- news
+tags:
+- xqc
+- forsen
+- drama
+keywords:
+- forsen
+- swedish
+- xqc
+- canadian
+- stream
+- racist
+- racism
+cover: "https://i.ibb.co/Qc3SDcB/forsenxqc.png"
+author: "E. Geyako"
+---
+
+* Who is xQc?
+
+Previously known for playing Overwatch at a professional level, Felix Lengyel
+(xQc) is a Canadian /Slots/ streamer on Twitch. He was [[https://www.pcgamer.com/overwatch-league-suspends-xqc-again-this-time-for-racially-disparaging-emotes/][previously caught in
+controversy for typing the controversial phrase "Tryhard 7"]].
+
+Today, he currently has 10.9 million followers at the time of writing right now.
+He has [[https://twitter.com/KnowS0mething/status/1445651544200781830][made $750k last September 2021 according to a Twitch leak]].
+
+* Who is Forsen?
+
+Forsen is a professional Swedish /Counter-Strike: Global Offensive/ streamer
+with 1.6 million followers at the time of writing. He is known for [[https://youtu.be/VN9ndoheP6c?t=28][saying the
+N-word on stream]] and saying the [[https://youtu.be/ZM0RrfwcWEo?t=4187][F-slur while heatedly gaming with a Swedish
+accent]].
+
+#+begin_quote
+You think this is a joke [removed]? What the fuck. [...] I said [removed].
+You're allowed to say [removed]. How many times do I have to say it. F*ckin'
+standard in rap, bros.
+
+--- Forsen, /CS:GO/ streamer
+#+end_quote
+
+He also shows a general hatred towards minorities and marginalized groups.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrVoJDmgbYA?clip=UgkxR4bacvP6N0oCQ5XiVc758XBvRRXwXJDA&amp;clipt=EP7DCRjDnAs" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+* Why is xQc watching Forsen?
+
+No one knows as to why xQc suddenly pulled up Forsen's stream, but fans have
+suggseted that they are in love. Fans speculated this makes sense as Forsen may
+have left his previous partner, Nani Heichou, who is presumed to be dead. This
+may be speculation or may be an inside joke among the omegalul poggers
+community.
+
+#+begin_quote
+They're so perfect for each other 🥰 They both talk without any sense 😍
+
+--- Shiro (YouTube)
+#+end_quote
+
+* xQc on Forsen's Stream
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCbxWYFCqO8" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+The Swedish streamer said:
+
+#+begin_quote
+To be fair though, in the moment, he might have actually like... like hit...
+like a rib or a nerve or something hard, and then it was just like... ah!
+#+end_quote
+
+Then the Canadian streamer replied with:
+
+#+begin_quote
+[Come on] bro, what is he saying? Is this what it's like to listen to a streamer's take?
+Are my takes like that bad?
+#+end_quote

@@ -1,0 +1,16 @@
+<div id="nextprev">
+{{ if or .Next .Prev -}}
+    <div class="left">
+    {{- with .Prev }}
+        <h1>Read next:</h1>
+        {{ partial "post-small.html" . }}
+    {{ end -}}
+    </div>
+    <div class="right">
+    {{- with .Next -}}
+        <h1>Retard</h1>
+        {{ partial "post-small.html" . }}
+    {{ end -}}
+    </div>
+{{ end -}}
+</div>

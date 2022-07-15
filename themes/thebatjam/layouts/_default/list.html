@@ -1,0 +1,7 @@
+{{ partial "head.html" }}
+{{ partial "header.html" }}
+<article>
+    {{- range.Pages }}
+        {{ partial "post.html" . }}
+    {{ end -}}
+</article>

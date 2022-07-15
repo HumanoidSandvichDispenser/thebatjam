@@ -1,0 +1,56 @@
+---
+title: "Finnish Streamer Raids and Crashes a Stream"
+date: 2022-07-13T21:05:34-07:00
+categories:
+- news
+tags:
+- velcuz
+- ronclevelandoutdoors
+- drama
+keywords:
+- stream
+- crash
+- finnish
+- ugandan
+- tts
+- chat
+- chatroom
+- forsen
+author: "Mikko"
+cover: "https://i.ibb.co/yXctVrg/velcuz.png"
+---
+
+The Finnish Twitch streamer "Velcuz" has raided and crashed a small stream by
+sending his followers to flood the chatorom.
+
+[[https://twitch.tv/velcuz][Velcuz]] is a Finnish-Ugandan LGBTQ streamer who often streams Just Chatting on
+Twitch.tv. He identifies as a "Fembaj" and uses /he/him/ pronouns. Often, many
+people come to harass him and tell him to "stop streaming". However, this time,
+he gets someone to stop streaming.
+
+[[https://twitch.tv/ronclevelandoutdoors][RonClevelandOutdoors]] is an American outdoors streamer who often streams Travel &
+Outdoors on Twitch.tv
+
+* Crashing the Stream With No Survivors
+
+Velcuz was watching a small stream of 70 viewers. His chat then raided the
+stream and flooded the chat with unwanted messages. Even though most of the
+messages were eventually deleted, and most of the participants were banned,
+their messages were still read through their TTS system.
+
+Text-to-speech (TTS) is a system that converts text into human-like speech. It
+is sort of like a robot reading to you. On Twitch, users can donate or send
+messages to activate the text-to-speech system and generate speech on the
+stream.
+
+In RonClevelandOutdoor's case, every message sent in their chatroom was sent to
+their TTS system. With hundreds of people chatting, their TTS system basically
+had to process a lot of messages. This led to their stream crashing.
+
+* Will Velcuz Get Banned?
+
+It is currently unknown whether Velcuz will get banned or warned for this
+incident, especially since he is an LGBTQ streamer and identity as a "Fembaj".
+Depending on how Twitch handles the situation, Velcuz can either be penalized as
+a male streamer, which is usually an indefinite ban, or as a female streamer,
+which is usually a warning.

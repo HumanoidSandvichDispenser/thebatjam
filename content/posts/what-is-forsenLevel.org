@@ -1,0 +1,64 @@
+---
+title: "What is ForsenLevel?"
+date: 2022-07-12
+categories:
+- guide
+tags:
+- forsen
+- twitch-emotes
+keywords:
+- forsen
+- level
+- emote
+- chat
+- chatroom
+- meme
+- bttv
+cover: "https://i.ibb.co/4NP38Yc/forsen-Is-Leveled.png"
+author: "E. Geyako"
+---
+
+If you're a gamer, you've probably heard of the livestreaming platform Twitch.tv
+before, and if so, you may have seen the "ForsenLevel" meme floating around. It
+is commonly seen all over the platform, but what does it mean?
+
+Here, you will learn what forsenLevel means on Twitch and its origin so you can
+use this meme in Twitch.tv and Reddit.
+
+* ForsenLevel Meme Origin
+
+In the video gaming community, ForsenLevel is the new meme that has popped in
+Twitch. It originated in the CS:GO Twitch channel "Forsen" which has 1.6 million
+followers at the time of writing. ForsenLevel originated from Forsen whenever he
+leveled up in the game /Counter-Strike: Global Offensive/. His watched him play
+CS:GO and say "Forsen Level" every time he leveled up in FACEIT matchmaking.
+This led to [[https://betterttv.com/emotes/624630b13c6f14b688440c6f][Forsen creating an emote called ForsenLevel]] on the 31st of March.
+
+* How to use ForsenLevel Meme
+
+Because his chatters often spam it when he levels up in his CS:GO games, many
+users will often use the meme when they level up in a video game. There are
+apparently several different memes about Forsen Level spreading across Twitch
+and Reddit including [[https://www.twitch.tv/clintstevens/clip/TameEndearingArmadilloUWot][this clip]].
+
+#+CAPTION: ForsenLevel rage comic. Image credit: Mr. Helmaksi
+[[https://i.ibb.co/nM7c2pY/q5vo3cfvftv81.png]]
+
+* ForsenLevel Example
+
+Using ForsenLevel is not hard to use. Here are some examples on how to use
+ForsenLevel effectively:
+
+** Example 1
+
+#+begin_quote
+chatter1: He leveled up \\
+chatter2: Lmao this right here a ForsenLevel moment bois
+#+end_quote
+
+** Example 2
+
+#+begin_quote
+chatter1: Press L to level up poggers bro \\
+chatter2: ForsenLevel
+#+end_quote
