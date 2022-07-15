@@ -17,10 +17,12 @@ related:
   indices:
   - name: tags
     weight: 5
+  - name: categories
+    weight: 3
   - name: keywords
     weight: 2
   - name: date
-    weight: 2
+    weight: 1
   - name: author
     weight: 1
   threshold: 45
