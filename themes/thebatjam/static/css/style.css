@@ -235,3 +235,29 @@ a.tag.small:hover {
 #nextprev > div.right {
     text-align: right;
 }
+
+nav.navbar > div {
+    display: inline-block;
+    width: 40%;
+}
+
+nav.navbar > div.navbar-right {
+    float: right;
+    text-align: right;
+}
+
+div.navbar-right a, div.navbar-right span {
+    margin: 8px;
+    font-weight: 300;
+    background-color: transparent;
+    color: var(--fg3);
+    text-decoration: none;
+}
+
+div.navbar-right a.active {
+    color: var(--accent);
+}
+
+div.navbar-right a:hover {
+    color: var(--fg0);
+}

@@ -30,6 +30,18 @@ related:
 
 menu:
   main:
+    - identifier: news
+      name: news
+      url: /categories/news/
+      weight: 1
+    - identifier: guide
+      name: guides
+      url: /categories/guide/
+      weight: 2
+    - identifier: opinion
+      name: opinions
+      url: /categories/opinion/
+      weight: 3
     - identifier: tags
       name: tags
       url: /tags/

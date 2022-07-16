@@ -6,6 +6,14 @@
             </a>
         </div>
         <div class="navbar-right">
+            {{ $page := . }}
+            {{ range .Site.Menus.main }}
+                {{ $active := or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }}
+                {{ $active = or $active (eq .Identifier $page.Title) }}
+                {{ $active = or $active (and (eq .Name "tags") (eq $page.Section "tags")) }}
+                <a class="{{ if $active }} active {{ else }} inactive {{ end }}"
+                        href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
         </div>
     </nav>
 </header>
