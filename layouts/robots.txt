@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+crawl-delay: 0
+Sitemap: https://sandvich.xyz/sitemap.xml
