@@ -1,27 +1,25 @@
 ---
-title: "Finnish Streamer Raids and Crashes a Stream"
-date: 2022-07-13T21:05:34-07:00
+title: "How to Start a Livestream on Twitch"
+date: 2022-07-14T21:05:34-07:00
 categories:
-- news
+- guide
 tags:
-- velcuz
-- ronclevelandoutdoors
-- drama
+- twitch
+- streaming
+- diy
 keywords:
 - stream
-- crash
-- finnish
-- ugandan
-- tts
-- chat
-- chatroom
-- forsen
-author: "Mikko"
-cover: "https://i.ibb.co/yXctVrg/velcuz.png"
+- twitch
+- how
+- start
+- livestream
+author: "Natsuo"
+cover: "https://hartsquare.co.uk/wp-content/uploads/2021/11/Newsletter-Images-38.png"
 ---
 
-The Finnish Twitch streamer "Velcuz" has raided and crashed a small stream by
-sending his followers to flood the chatorom.
+Livestreaming has become quite popular on the world wide web and is becoming a viable 
+form of media to expand your business and grow your customer base. This guide will show 
+all the steps necessary to become a proper live broadcaster. 
 
 [[https://twitch.tv/velcuz][Velcuz]] is a Finnish-Ugandan LGBTQ streamer who often streams Just Chatting on
 Twitch.tv. He identifies as a "Fembaj" and uses /he/him/ pronouns. Often, many
