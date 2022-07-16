@@ -42,6 +42,10 @@ menu:
       name: opinions
       url: /categories/opinion/
       weight: 3
+    - identifier: review
+      name: reviews
+      url: /categories/review/
+      weight: 3
     - identifier: tags
       name: tags
       url: /tags/

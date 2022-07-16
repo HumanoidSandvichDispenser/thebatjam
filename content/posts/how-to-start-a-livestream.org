@@ -18,6 +18,7 @@ keywords:
 - forsen
 author: "Mikko"
 cover: "https://i.ibb.co/yXctVrg/velcuz.png"
+draft: true
 ---
 
 The Finnish Twitch streamer "Velcuz" has raided and crashed a small stream by
