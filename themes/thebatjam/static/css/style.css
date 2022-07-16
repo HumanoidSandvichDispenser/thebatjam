@@ -85,6 +85,10 @@ article > header > h1 {
     margin-bottom: var(--content-gap);
 }
 
+article img {
+    max-width: 100%;
+}
+
 small i {
     font-family: var(--serif);
 }
