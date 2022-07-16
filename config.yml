@@ -1,4 +1,4 @@
-baseURL: "http://sandvich.xyz/"
+baseURL: "https://sandvich.xyz/"
 languageCode: "en-us"
 title: "TheBatJam"
 paginate: 5
@@ -50,3 +50,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
+
+enableRobotsTXT: true
