@@ -20,34 +20,31 @@ Livestreaming has become quite popular on the world wide web and is becoming a v
 form of media to expand your business and grow your customer base. This guide will show 
 all the steps necessary to become a proper live broadcaster. 
 
-[[https://twitch.tv/velcuz][Velcuz]] is a Finnish-Ugandan LGBTQ streamer who often streams Just Chatting on
-Twitch.tv. He identifies as a "Fembaj" and uses /he/him/ pronouns. Often, many
-people come to harass him and tell him to "stop streaming". However, this time,
-he gets someone to stop streaming.
+The first form of livestreaming occured in 1995 when RealNetworks developed a media player capable of 
+livestreaming. The first public live stream was a broadcast of a baseball game between the New York Yankees and 
+the Seattle Mariners and was a minor success. Livestreaming has expanded rapidly since then with the creation of sites 
+such as Chatturbate. However, it was YouTube that truly blew up the live streaming industry. 
 
-[[https://twitch.tv/ronclevelandoutdoors][RonClevelandOutdoors]] is an American outdoors streamer who often streams Travel &
-Outdoors on Twitch.tv
+In 2008, [[https://YouTube.com][YouTube]] hosted its first live event, named YouTube Live. It was live streamed from San Francisco and Tokyo
+at the same time and featured interviews and performances from superstars like Katy Perry, Smosh, MythBusters, and Bo Burnham.
+ Although the live event was considered successful, something was still off. YouTube didn’t become a specialized live streaming platform,
+ hosting only occasional live broadcasts here and there. The most notable ones were a U2 concert in 2009 and a live Q&A session with Barack Obama in 2010.
+ Shortly afterward, the company started the development of its own live streaming technology.
 
-* Crashing the Stream With No Survivors
 
-Velcuz was watching a small stream of 70 viewers. His chat then raided the
-stream and flooded the chat with unwanted messages. Even though most of the
-messages were eventually deleted, and most of the participants were banned,
-their messages were still read through their TTS system.
+* The Rise of Twitch
 
-Text-to-speech (TTS) is a system that converts text into human-like speech. It
-is sort of like a robot reading to you. On Twitch, users can donate or send
-messages to activate the text-to-speech system and generate speech on the
-stream.
+Originally known as Justin.tv, [[twitch.tv][Twitch]] is now the most popular platform for online real-time broadcasters. Most of the streams
+on Twitch consist of In-Real-Life (IRL) interactions where streamers show their daily lives with very little editting.
 
-In RonClevelandOutdoor's case, every message sent in their chatroom was sent to
-their TTS system. With hundreds of people chatting, their TTS system basically
-had to process a lot of messages. This led to their stream crashing.
+This is particularly entertaining to watch because since it is live, all the interactions occur at the same time you are watching it.
+This allows for a more exciting watch as what happens next is unknown. This has lead to many hilarious moments that keep viewers watching.
 
-* Will Velcuz Get Banned?
+For example, the broadcasting conglomerate One-True-King (OTK) features many In-Real-Life (IRL) live broadcasters that entertain viewers
+through goofy stunts and esoteric jokes that only the most loyal of fans will understand. 
 
-It is currently unknown whether Velcuz will get banned or warned for this
-incident, especially since he is an LGBTQ streamer and identity as a "Fembaj".
-Depending on how Twitch handles the situation, Velcuz can either be penalized as
-a male streamer, which is usually an indefinite ban, or as a female streamer,
-which is usually a warning.
+* How to Livestream?
+
+Livestreaming can be a very fulfilling way to spread your joy with other people all across the world. In order to livestream a proper
+stream setup will be needed to ensure a smooth watching experience. It can be a complex process that will take a significant time investment 
+in order to become proficient. 
