@@ -22,11 +22,14 @@ all the steps necessary to become a proper live broadcaster.
 
 The first form of livestreaming occured in 1995 when RealNetworks developed a media player capable of 
 livestreaming. The first public live stream was a broadcast of a baseball game between the New York Yankees and 
-the Seattle Mariners and was a minor success. Livestreaming has expanded rapidly since then with the creation of sites 
+the Seattle Mariners and was a minor success. 
+
+Livestreaming has expanded rapidly since then with the creation of sites 
 such as Chatturbate. However, it was YouTube that truly blew up the live streaming industry. 
 
 In 2008, [[https://YouTube.com][YouTube]] hosted its first live event, named YouTube Live. It was live streamed from San Francisco and Tokyo
 at the same time and featured interviews and performances from superstars like Katy Perry, Smosh, MythBusters, and Bo Burnham.
+
  Although the live event was considered successful, something was still off. YouTube didn’t become a specialized live streaming platform,
  hosting only occasional live broadcasts here and there. The most notable ones were a U2 concert in 2009 and a live Q&A session with Barack Obama in 2010.
  Shortly afterward, the company started the development of its own live streaming technology.
