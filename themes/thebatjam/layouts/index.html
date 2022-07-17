@@ -2,7 +2,7 @@
 {{ .Content }}
 <div>
     <article>
-        <h1>Latest News</h1>
+        <h1>Latest Posts</h1>
     {{ range first 10 .Site.RegularPages }}
         {{ partial "post.html" . }}
     {{ end }}

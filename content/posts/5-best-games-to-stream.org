@@ -1,0 +1,139 @@
+---
+title: "Top 5 Games to Stream on Twitch"
+date: 2022-07-15T20:35:01-07:00
+categories:
+- guide
+tags:
+- twitch
+- games
+keywords:
+- how
+- how to
+- game
+- games
+- gaming
+- twitch
+- livestreaming
+- livestream
+- streaming
+- stream
+- broadcast
+- top 5
+- top 10
+author: "John Jekyll"
+cover: "/img/desk.png"
+---
+
+If you are a gamer, you might have heard of the term /live streaming/. Live
+streams broadcasts video over the internet, and some live-streamers broadcast
+themselves playing video games. /Twitch/ is a live-streaming platform where
+broadcasters can broadcast themselves playing video games or watching movies.
+
+Live-streaming allows you to play your favorite video games, develop a fan base,
+form parasocial relationships, and earn money. For some people, it is a fun and
+unique way to show off their skills and reactions to the game. It can also be a
+way to make friends and network with other gamers. It can be a way to take a
+break from school or work, and just have some fun. It sounds like a win-win,
+right?
+
+Twitch has seen a massive growth during the 2020 Coronavirus pandemic. If you
+are currently a live-streamer, you are more likely to succeed and grow your
+audience.
+
+Here, we list five games you can stream on Twitch that are enjoyable for you and
+your audience and will boost your live-streaming career.
+
+* Minecraft
+
+/Minecraft/ is a sandbox adventure game developed by Microsoft and Mojang. The
+objective in this game is to build, run around, and explore. The possibilities
+in this game are essentially /endless/, and this can give you millions of hours
+of fun and enjoyment.
+
+[[/img/terraria.png]]
+
+** Why stream Minecraft?
+
+Minecraft has an extremely strong speedrunning community. If you want to gain
+exposure quickly, joining the Minecraft speedrunning community is a great way to
+start your career. If you are looking for an investment that pays off well,
+Minecraft would be a great choice.
+
+*Price:* $26.95
+
+* Valorant
+
+/Valorant/ is a 5v5 hero-based first-person shooter. However, what separates
+this game from other games such as /Overwatch/ is that there is no respawning,
+and you purchase weapons. This shooter offers a unique, engaging multiplayer
+experience.
+
+[[/img/valorant.png]]
+
+** Why stream Valorant?
+
+The intense gunfights in this game is the best part of the game; if you want
+action, look no further as Valorant is the perfect game for epic moments.
+Viewers would love the immersive, action-packed experience that Valorant
+provides. In addition, the game is relatively simple to play, so viewers will
+not be confused as they tune in on the stream.
+
+*Price:* FREE!
+
+* Just Chatting
+
+/Just Chatting/ is not really a game, but a genre developed by Twitch. It is the
+most popular category with around 15% of the platform streaming it. To give you
+an idea of how effective Just Chatting can be, here are things you can do:
+
+- Reacting
+- Debating
+- Browsing [[https://reddit.com/r/livestreamfail][/r/LivestreamFail]]
+
+[[/img/justchatting.jpg]]
+
+** Why stream Just Chatting?
+
+The biggest reason why this game is so popular and enjoyable to stream is
+because of the streamer-audience interaction. This game forces the streamer to
+interact with their own audience. In addition, the increased streamer-audience
+interaction increases the amount of donations you get.
+
+*Price:* FREE!
+
+* Counter-Strike: Global Offensive
+
+/Counter-Strike: Global Offensive/ (aka /CS:GO/) is a first person shooter. If
+you have ever heard of /Valorant/, it is similar to that game but realistic, and
+you play as all of the heroes at the same time. The game contains a multiplayer
+and co-op campaign and is praised for its unique gameplay.
+
+[[/img/csgo.jpg]]
+
+** Why Stream Counter-Strike: Global Offensive?
+
+Counter-Strike: Global Offensive is a game with an extremely high skill ceiling.
+Viewers would love to watch skilled streamers play at a high level. In addition,
+matchmaking allows for diverse teammates with various levels of English-speaking
+abilities. This allows for more funny moments on stream.
+
+*Price:* FREE!
+
+* Pools, Hot Tubs, and Beaches
+
+/Pools, Hot Tubs, and Beaches/ is an IRL game from Twitch. It was released by
+Twitch during the summer of 2021. Pools, Hot Tubs, and Beaches streamers often
+interact with their audience similarly to /Just Chatting/.
+
+#+begin_export html
+<img src="/img/hottub.webp">
+#+end_export
+
+** Why Stream Pools, Hot Tubs, and Beaches?
+
+If you are a streamer who is just starting out, you can quickly set up a Pools,
+Hot Tubs, and Beaches stream! Without any prior video gaming experience, you can
+develop a fanbase quickly. You don't have to worry about copyright issues either
+as long as there are no copyrighted songs in the background.
+
+*Price:* FREE!
