@@ -1,8 +1,7 @@
 ---
 title: "Finnish Streamer Raids and Crashes a Stream"
 date: 2022-07-13T21:05:34-07:00
-categories:
-- news
+category: news
 tags:
 - velcuz
 - ronclevelandoutdoors

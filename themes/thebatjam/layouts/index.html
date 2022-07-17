@@ -3,8 +3,10 @@
 <div>
     <article>
         <h1>Latest Posts</h1>
+        <hr>
     {{ range first 10 .Site.RegularPages }}
         {{ partial "post.html" . }}
+        <hr>
     {{ end }}
     </article>
 </div>

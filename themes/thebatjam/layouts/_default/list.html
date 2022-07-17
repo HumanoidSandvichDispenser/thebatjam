@@ -1,7 +1,34 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 <article>
-    {{- range.Pages }}
-        {{ partial "post.html" . }}
-    {{ end -}}
+    {{ if eq .Title "Tags" }}
+        <h1>Filter by Tag</h1>
+        {{ range .Pages }}
+            <a class="tag large" id="tag_{{ .Title | lower }}" href="{{ .Permalink }}">#{{ .Title }}</a>
+        {{ end }}
+    {{ else }}
+        {{ if eq .Parent.Title "Tags" }}
+            {{ $lenPages := len .Pages }}
+            <h1 style="margin-bottom: 0">
+                #{{ .Title }}
+            </h1>
+            <h2>
+                {{ $lenPages }}
+                {{ if eq $lenPages 1 }}
+                    result
+                {{ else }}
+                    results
+                {{ end }}
+            </h2>
+        {{ else if eq .Section "category" }}
+            <h1>
+                {{ .Title | title | pluralize }}
+            </h1>
+        {{ end }}
+        <hr>
+        {{ range .Pages }}
+            {{ partial "post.html" . }}
+            <hr>
+        {{ end }}
+    {{ end }}
 </article>

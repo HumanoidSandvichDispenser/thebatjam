@@ -1,4 +1,4 @@
-baseURL: "http://sandvich.xyz/"
+baseURL: "https://sandvich.xyz/"
 languageCode: "en-us"
 title: "TheBatJam"
 paginate: 5
@@ -6,7 +6,6 @@ theme: "thebatjam"
 disqusShortname: "batjam"
 summaryLength: 20
 
-#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -17,7 +16,7 @@ related:
   indices:
   - name: tags
     weight: 5
-  - name: categories
+  - name: type
     weight: 3
   - name: keywords
     weight: 2
@@ -32,21 +31,32 @@ menu:
   main:
     - identifier: news
       name: news
-      url: /categories/news/
+      url: /category/news/
       weight: 1
     - identifier: guide
       name: guides
-      url: /categories/guide/
+      url: /category/guide/
       weight: 2
     - identifier: opinion
       name: opinions
-      url: /categories/opinion/
+      url: /category/opinion/
       weight: 3
     - identifier: review
       name: reviews
-      url: /categories/review/
-      weight: 3
+      url: /category/review/
+      weight: 4
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
+
+taxonomies:
+  category: category
+  tag: tags
+
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
+
+enableRobotsTXT: true

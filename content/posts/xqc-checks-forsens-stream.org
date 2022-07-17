@@ -1,8 +1,7 @@
 ---
 title: "Streamer xQc Visits Forsen's Stream"
 date: 2022-07-12T23:44:03-07:00
-categories:
-- news
+category: news
 tags:
 - xqc
 - forsen
