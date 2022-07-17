@@ -1,8 +1,7 @@
 ---
-title: "Top 5 Games to Stream on Twitch"
+title: "How to Grow Your Audience: Top 5 Games to Stream on Twitch"
 date: 2022-07-15T20:35:01-07:00
-categories:
-- guide
+category: guide
 tags:
 - twitch
 - games
@@ -43,7 +42,7 @@ audience.
 Here, we list five games you can stream on Twitch that are enjoyable for you and
 your audience and will boost your live-streaming career.
 
-* Minecraft
+* 5. Minecraft
 
 /Minecraft/ is a sandbox adventure game developed by Microsoft and Mojang. The
 objective in this game is to build, run around, and explore. The possibilities
@@ -61,7 +60,7 @@ Minecraft would be a great choice.
 
 *Price:* $26.95
 
-* Valorant
+* 4. Valorant
 
 /Valorant/ is a 5v5 hero-based first-person shooter. However, what separates
 this game from other games such as /Overwatch/ is that there is no respawning,
@@ -80,7 +79,7 @@ not be confused as they tune in on the stream.
 
 *Price:* FREE!
 
-* Just Chatting
+* 3. Just Chatting
 
 /Just Chatting/ is not really a game, but a genre developed by Twitch. It is the
 most popular category with around 15% of the platform streaming it. To give you
@@ -101,7 +100,7 @@ interaction increases the amount of donations you get.
 
 *Price:* FREE!
 
-* Counter-Strike: Global Offensive
+* 2. Counter-Strike: Global Offensive
 
 /Counter-Strike: Global Offensive/ (aka /CS:GO/) is a first person shooter. If
 you have ever heard of /Valorant/, it is similar to that game but realistic, and

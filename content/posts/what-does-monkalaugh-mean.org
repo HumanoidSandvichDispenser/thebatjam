@@ -1,8 +1,7 @@
 ---
 title: "What Does Monka Laugh Mean on Twitch?"
 date: 2022-07-14T01:00:29-07:00
-categories:
-- guide
+category: guide
 tags:
 - monkalaugh
 - twitch-emotes

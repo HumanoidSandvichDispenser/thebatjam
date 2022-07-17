@@ -1,8 +1,7 @@
 ---
 title: "How to Get Animated Profile Picture Twitch 2022"
 date: 2022-07-14T19:24:36-07:00
-categories:
-- guide
+category: guide
 tags:
 - twitch
 keywords:

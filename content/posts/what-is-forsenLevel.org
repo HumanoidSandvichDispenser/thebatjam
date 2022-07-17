@@ -1,8 +1,7 @@
 ---
 title: "What is ForsenLevel?"
 date: 2022-07-12
-categories:
-- guide
+category: guide
 tags:
 - forsen
 - twitch-emotes
