@@ -2,6 +2,7 @@
 title: "How to Start a Livestream on Twitch"
 date: 2022-07-14T21:05:34-07:00
 category: guide
+draft: true
 tags:
 - twitch
 - streaming
@@ -50,4 +51,4 @@ through goofy stunts and esoteric jokes that only the most loyal of fans will un
 
 Livestreaming can be a very fulfilling way to spread your joy with other people all across the world. In order to livestream a proper
 stream setup will be needed to ensure a smooth watching experience. It can be a complex process that will take a significant time investment 
-in order to become proficient. 
+in order to become proficient.

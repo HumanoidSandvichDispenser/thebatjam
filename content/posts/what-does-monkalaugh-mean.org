@@ -71,6 +71,8 @@ freedom to post whatever meme you want in the chatroom.
 
 * MonkaLaugh Example
 
+** Example 1
+
 #+begin_quote
 chatter1: POG HE'S FINALLY PLAYING CSGO \\
 chatter2: Monka Laugh I love CSGO!
@@ -78,3 +80,9 @@ chatter2: Monka Laugh I love CSGO!
 
 /CS:GO/ or /Counter-Strike: Global Offensive/ is a multiplayer first-person
 shooter developed by Valve.
+
+** Example 2
+
+#+begin_quote
+chatter: Have you watched Transformers 3? That movie was so MonkaLaugh
+#+end_quote

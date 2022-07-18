@@ -1,0 +1,232 @@
+---
+title: "🔱 5 Best & 5 Worst Twitch Emoticons ⚜️"
+date: 2022-07-17T17:03:15-07:00
+category: review
+tags:
+- twitch
+- twitch-emotes
+keywords:
+- emoji
+- emojis
+- emote
+- emotes
+- twitch
+- top 10
+- top 5
+author: "John Jekyll"
+cover: "/img/top-emotes.webp"
+---
+
+Twitch emoticons are what define Twitch itself. If you have ever been to a
+livestream on Twitch, you may have seen a chatroom with chatters posting images.
+These are called emotes.
+
+An emote is basically an emoji on Twitch. They're small images used in chatting
+to express a wide range of emotions. For example, the "PogBones" emote is always
+used to express that something pog happened on the stream. The "KEKHeim" emote
+is always used to express laughter, as "KEK" is what happens when you attempt to
+type "ЛУЛ" (Latin: LUL, also a Twitch emoji) on a standard US keyboard.
+
+Emotes can be used to accompany the chatter's message. Any Twitch emote can add
+flair to any message you send.
+
+Here are the five best and five worst emojis on Twitch.tv:
+
+* Best: KonCha
+
+What's the best way to greet a streamer or a new chatter? The answer is always
+KonCha. 👋
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/160400/static/light/3.0" width="112">
+</center>
+#+end_export
+
+While other emotes like /HeyGuys/ and the smiley face exist, KonCha is a cuter
+way of greeting someone. Twitch does not have that many cute emotes, and most of
+them are low resolution images that barely get used. KonCha is unique compared
+to many other emotes.
+
+Generally, whenever you want to greet someone, stick with KonCha. It will
+provide them a warm, friendlier welcome to the stream.
+
+* Worst: PrimeRlyTho
+
+I hate f*cking airplanes. RlyTho? That just made no sense. 🤨
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/134256/static/light/3.0" width="112">
+</center>
+#+end_export
+
+The emote's primary use is to express disbelief or confusion at a streamer's
+actions. There are other emotes that exist for that purpose, such as /cmonBruh/.
+While this guy is just sitting there raising his eyebrow. The worst part is not
+the lack of emotion, but the fact that it's behind a paywall! 💸
+
+If you want to express a weak emotion, then go for this emoticon... if you have
+the money. This emote requires a Prime subscription to unlock. Otherwise just
+stick with /cmonBruh/.
+
+* Best: BTTV Emotes
+
+You know those cheap offbrand chargers you buy because you don't want to pay $60
+for a new charger for your iPhone? This is basically what this "BTTV" craze is
+all about.
+
+#+begin_export html
+<center>
+<img src="https://store-images.s-microsoft.com/image/apps.3053.13510798887645422.48d43608-fe9f-4a83-9b57-04778ca7222b.f87cc4b6-702c-47fd-8451-7d1c1af8a825" width="112">
+</center>
+#+end_export
+
+BTTV is a third party app to show emotes on Twitch. You can download and unlock
+more emoticons on BTTV. These are not official Twitch emotes, and users can
+upload and download any emoticon they want. 💿
+
+Many emoticons on BBTV are popular, including:
+
+** Pag-Man
+
+This is a combination of /Poggers/ and /Pac-Man/.
+
+** Hahaa
+
+This is an emote with an awkward face to convey awkward laughter.
+
+** CvHazmat
+
+This is an emote depicting a yellow /Among Us/ suit. Place emotes before it to
+make it a crewmate.
+
+* Worst: BTTV Emotes
+
+BTTV is a third party app to show emotes on Twitch. Like how there are good
+emotes on BTTV, there are also bad ones.
+
+** SourPls
+
+Many people use this emote to troll and lag chatrooms; please disable this emote
+immediately if you are an owner of a Twitch channel.
+
+** FeelsGoodMan
+
+This is a Pepe the Frog emote. Pepe is considered a dead (and racist after [[https://www.adl.org/education/references/hate-symbols/pepe-the-frog][being
+appropriated by the alt-right]]) meme. It has become a boring emoji to post in
+chatrooms.
+
+* Best: PogBones
+
+If you've heard of /Poggers/ and /PogChamp/, you know fans of these emotes are
+divided. Some absolutely love /Poggers/ and hate /PogChamp/, while others
+absolutely love /PogChamp/ and hate /Poggers/. However, a new contestant rises.
+🖐️😮🖐️
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_30050f4353aa4322b25b6b044703e5d1/static/light/3.0" width="112">
+</center>
+#+end_export
+
+PogBones is an emoji that you can use the exact way as poggers/pog/pogchamp/etc.
+This emote is a replacement for any pogger emotes. It looks exactly the same as
+Poggers, and it is an official emote, so no need to worry about installing a
+third party app on your computer.
+
+It is a poggers-fishbones hybrid from the TV series 📺 /Arcane/ by Riot Games.
+This emote came out with three other /Arcane/ emoticons. If you are a fan of the
+show or don't want to install third party services, you may prefer this emote
+over other pog emotes.
+
+* Worst: BatChest
+
+Someone just wants to collect fat Pokimane NFTs. BatChest! Someone just wants to
+talk about their favorite anime with funny, silly children characters.
+BatChest! 🤓
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/115234/static/light/3.0" width="112">
+</center>
+#+end_export
+
+BatChest is an emote used to depict nerds. Anything nerdy will have the chat use
+the BatChest emote.
+
+Some people will find this emote toxic and annoying. In addition, BatChest is a
+useless emote; there are several other emotes that can be used to depict
+nerdiness, such as the nerd emoji.
+
+* Best: InuyoFace
+
+Streamers are not perfect, of course. That's why we watch them. And sometimes
+they fail but in a hilarious fashion. 😅😅
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/160396/static/light/3.0" width="112">
+</center>
+#+end_export
+
+InuyoFace is an emoji that you can tell the streamer "in your face!" It is a
+funny emote you can use when your streamer does a fail. 💀
+
+No matter what channel you use this in, InuyoFace will be a perfect emote to
+post onto the chatroom to have fun with your streamer. If you are a streamer,
+encouraging the use of this emote will increase interaction with your audience.
+
+* Worst: DansGaming
+
+Is the chat lagging or is the streamer offline? DansGame moment, I know right?
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/33/static/light/3.0" width="112">
+</center>
+#+end_export
+
+The DansGame emote is pixeleted and usually used to express disgust. It is
+always used in a negative context, no matter the situation. This wide range of
+uses led to the overuse of the emote and promotes toxicity. In addition, the
+emote is very low quality and pixelated.
+
+In most cases, the emote inhibits negative behavior in the chatroom. It is
+recommended that you ban this emote from your chat room if you want to keep
+✨positive vibes only✨ and troll-free.
+
+* Best: :)
+
+Does this really need an explanation? 🤔
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/1/static/light/3.0" width="112">
+</center>
+#+end_export
+
+This classic Twitch emote is a smiley face emoticon. You type it with the
+classic ":)" emoticon from the old internet ages.
+
+You can use this to be friendly with other chatters. It doesn't hurt to say a
+"hello :)" in the chat!
+
+* Worst: LUL
+
+Everyone knows that one person who laughs at everything, even if it's not funny.
+This emoji is the embodiment of that. 🤣
+
+#+begin_export html
+<center>
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/425618/static/light/3.0" width="112">
+</center>
+#+end_export
+
+The emote is used to express laughter, of course, but it gets used for
+everything. However, this emote is also basically useless, since other emoticons
+such as /4Head/ have overshadowed the purpose of the LUL emoticon.
+
+You can use this emote if you want, but remember that there are much better
+alternative choices out there, especially in the large world of Twitch with tons
+of emojis.

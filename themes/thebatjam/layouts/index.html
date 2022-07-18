@@ -2,12 +2,26 @@
 {{ .Content }}
 <div>
     <article>
-        <h1>Latest Posts</h1>
+        <h1>TheBatJam Gaming</h1>
+        <p>
+        <i>TheBatJam</i> brings the latest news, guides, and reviews to all of
+        your video gaming epicness. From blockbuster video game championships
+        to v-tubing, we have all the gaming and streaming news you would not
+        want to miss.
+        </p>
+
+        <p>
+        See a little inside glimpse into the video gaming world. That's what
+        this website is about. That's what society is about: anything related
+        to video gaming.
+        </p>
+
+        <h2>Latest Posts</h2>
         <hr>
-    {{ range first 10 .Site.RegularPages }}
-        {{ partial "post.html" . }}
-        <hr>
-    {{ end }}
+        {{ range $i, $e := first 10 .Site.RegularPages }}
+            {{ partial "post.html" . }}
+            <hr>
+        {{ end }}
     </article>
 </div>
 {{ end }}

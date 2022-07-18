@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+
+User-agent: bingbot
+Allow: /
 crawl-delay: 0
+
 Sitemap: https://sandvich.xyz/sitemap.xml
