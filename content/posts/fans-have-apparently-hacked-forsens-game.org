@@ -1,0 +1,77 @@
+---
+title: "Fans have apparently hacked Forsen's game"
+date: 2022-07-16T19:02:25-07:00
+category: news
+tags:
+- forsen
+- fail
+keywords:
+- fail
+- sniper
+- stream sniper
+- streamsniper
+- hack
+- hacked
+- keylogged
+- keylogger
+- keylog
+- scary
+- strange
+- moment
+- moments
+author: "E. Geyako"
+cover: "/img/forsen-shrug.jpg"
+---
+
+The Twitch streamer [[https://twitch.tv/forsen][Forsen]] has a unique relationship with his audience. He has
+built his community around memes and trolling. His fans themselves have gained
+popularity as they practice stream sniping in multiplayer games --- some have
+risen to become streamers themselves. His community became known for playing
+loud music in-game and hunting him down, no matter the cost. As demonstrated,
+his fans are the most dedicated out of many other streamers.
+
+Of course, no matter what multiplayer game he plays, he will meet some stream
+snipers. A recent clip showed him setting up a room of /What the Dub?!/, a party
+game, perfect for his stream snipers. However, what you will see in this clip is
+very interesting.
+
+#+CAPTION: A stream sniper joined Forsen's game without him revealing the code
+#+begin_export html
+<iframe src="https://clips.twitch.tv/embed?clip=PopularJoyousPhoneTheRinger-LJBkBYn7sTbn_SPG&parent=sandvich.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+#+end_export
+
+* Stream Sniper Hacks into Forsen's Game
+
+Many of Forsen's chatters were also surprised by a stream sniper abruptly
+joining the game without the code. While some have jokingly stated that the
+sniper was "living in his walls", some have suggested that he was hacked, which
+was most likely the case.
+
+#+begin_quote
+Forsen: How are you in? What? I haven't even posted the code! Alright.
+#+end_quote
+
+Forsen remains confused for the next two minutes, and so does his audience. Many
+people have no idea how the stream sniper has joined. Some people became worried
+about a rootkit installed on his computer. A rootkit permits an attacker
+administrative access on their victim's computer. It is entirely possible that
+Forsen has a rootkit on his computer.
+
+However, some people on a "Forsencord" chat room have revealed something
+entirely shocking:
+
+#+CAPTION: Source: Discord
+#+begin_export html
+<img src="/img/wtf-keylogger.webp">
+#+end_export
+
+A fan has apparently keylogged Forsen and hacked the code to join his game. A
+keylogger tracks everything you type on your computer. Keyloggers can be very
+dangerous as people can steal your confidential information.  They exist all
+over the internet, and as Forsen always clicks random links from his fans, it's
+no surprise that he likely has one. Since a fan has hacked Forsen with a
+keylogger, everytime Forsen creates a room, all of the codes will be leaked.
+
+This is not the first time that Forsen could have been hacked, however. In one
+instance, he was seen chatting in xQc's chatroom, although he denied it was him.
+It's possible his Twitch account was hacked.
