@@ -16,7 +16,7 @@ related:
   indices:
   - name: tags
     weight: 5
-  - name: type
+  - name: category
     weight: 3
   - name: keywords
     weight: 2
