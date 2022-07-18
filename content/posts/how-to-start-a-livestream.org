@@ -2,7 +2,7 @@
 title: "How to Start a Livestream on Twitch"
 date: 2022-07-14T21:05:34-07:00
 category: guide
-draft: true
+draft: false
 tags:
 - twitch
 - streaming
@@ -29,12 +29,11 @@ Livestreaming has expanded rapidly since then with the creation of sites
 such as Chatturbate. However, it was YouTube that truly blew up the live streaming industry. 
 
 In 2008, [[https://YouTube.com][YouTube]] hosted its first live event, named YouTube Live. It was live streamed from San Francisco and Tokyo
-at the same time and featured interviews and performances from superstars like Katy Perry, Smosh, MythBusters, and Bo Burnham.
+at the same time and featured interviews and performances from superstars like Smosh.
 
- Although the live event was considered successful, something was still off. YouTube didn’t become a specialized live streaming platform,
- hosting only occasional live broadcasts here and there. The most notable ones were a U2 concert in 2009 and a live Q&A session with Barack Obama in 2010.
- Shortly afterward, the company started the development of its own live streaming technology.
-
+Even though it was a moderate success YouTube Live failed to gain much popularity. Popular 
+Twitch streamer Felix Lengyel (xQc) explained that YouTube lacked the interaction that Twitch 
+offered. 
 
 * The Rise of Twitch
 
