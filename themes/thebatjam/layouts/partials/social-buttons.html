@@ -1,0 +1,14 @@
+{{- $.Scratch.Set "tags" ""}}
+
+{{- with .Params.Tags }}
+{{- $hashtags := newScratch}}
+{{- range . }}{{ $hashtags.Add "tags" (slice (replaceRE "(\\s)" "" . ))}}{{end}}
+{{- $.Scratch.Set "tags" (delimit ($hashtags.Get "tags") ",") }}
+{{- end -}}
+
+<div class="social-buttons">
+    <a target="_blank" rel="noopener noreferrer" aria-label="share {{ .Title | plainify }} on twitter"
+            href="https://twitter.com/intent/tweet/?text={{ .Title }}&amp;url={{ .Permalink }}&amp;hashtags={{- $.Scratch.Get "tags" -}}">
+        <i class="bi bi-twitter"></i>
+    </a>
+</div>
