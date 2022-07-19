@@ -32,6 +32,14 @@ Outdoors on Twitch.tv
 
 * Crashing the Stream With No Survivors
 
+#+begin_export html
+<iframe src="https://clips.twitch.tv/embed?clip=TastyDoubtfulStinkbugAsianGlow-71QpLjqF7or9-Bs1&parent=sandvich.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+#+end_export
+
+#+begin_export html
+<iframe src="https://clips.twitch.tv/embed?clip=BusyNurturingHippoPicoMause-32woULKvnFAQv0ae&parent=sandvich.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+#+end_export
+
 Velcuz was watching a small stream of 70 viewers. His chat then raided the
 stream and flooded the chat with unwanted messages. Even though most of the
 messages were eventually deleted, and most of the participants were banned,

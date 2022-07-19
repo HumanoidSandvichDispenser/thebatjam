@@ -28,6 +28,4 @@ cover: ""
 
 * 1. Forsen says it
 
-#+begin_export html
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VN9ndoheP6c?start=21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#+end_export
