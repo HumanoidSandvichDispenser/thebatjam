@@ -20,6 +20,10 @@ Livestreaming has become quite popular on the world wide web and is becoming a v
 form of media to expand your business and grow your customer base. This guide will show 
 all the steps necessary to become a proper live broadcaster. 
 
+It can perhaps be said that the grandfather of livestreaming is television, as it offers
+a live broadcast to an audience. However, live streaming is different as it exists on the 
+internet and features exclusively live content. 
+
 The first form of livestreaming occured in 1995 when RealNetworks developed a media player capable of 
 livestreaming. The first public live stream was a broadcast of a baseball game between the New York Yankees and 
 the Seattle Mariners and was a minor success. 
@@ -27,8 +31,9 @@ the Seattle Mariners and was a minor success.
 Livestreaming has expanded rapidly since then with the creation of sites 
 such as Chatturbate. However, it was YouTube that truly blew up the live streaming industry. 
 
-In 2008, [[https://YouTube.com][YouTube]] hosted its first live event, named YouTube Live. It was live streamed from San Francisco and Tokyo
-at the same time and featured interviews and performances from superstars like Smosh.
+In 2008, [[https://YouTube.com][YouTube]] hosted its first live event, named YouTube Live. 
+Since then, YouTube Live has become a popular platform with many famous people such as 
+Sykkunno, who is known for his GTA livestreams and feminine demeanor.  
 
 Even though it was a moderate success YouTube Live failed to gain much popularity. Popular 
 Twitch streamer Felix Lengyel (xQc) explained that YouTube lacked the interaction that Twitch 
