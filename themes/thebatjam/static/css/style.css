@@ -34,10 +34,12 @@
 }
 
 .navbar {
+    display: flex;
     background-color: var(--nav-bg);
     color: var(--nav-fg);
     padding: 16px;
     margin-bottom: 0;
+    font-size: 28px;
 }
 
 .navbar .logo {
@@ -48,6 +50,38 @@
     letter-spacing: 0;
     font-weight: 800;
     margin: 8px;
+}
+
+.navbar > .navbar-left {
+
+}
+
+nav.navbar > div {
+    display: inline-block;
+}
+
+nav.navbar > div.navbar-right {
+    float: right;
+    text-align: right;
+    flex-grow: 1;
+}
+
+div.navbar-right a, div.navbar-right span {
+    margin: 8px;
+    font-weight: 300;
+    background-color: transparent;
+    color: var(--fg3);
+    text-decoration: none;
+}
+
+div.navbar-right a.active {
+    color: var(--accent);
+    font-weight: 400;
+    text-shadow: 1px 0px 8px;
+}
+
+div.navbar-right a:hover {
+    color: var(--fg0);
 }
 
 .accent {
@@ -64,10 +98,6 @@ body {
 article *::selection {
     background-color: var(--fg0);
     color: var(--bg0);
-}
-
-.navbar {
-    font-size: 28px;
 }
 
 article {
@@ -265,32 +295,4 @@ a.tag.large:hover {
 
 #nextprev > div.right {
     text-align: right;
-}
-
-nav.navbar > div {
-    display: inline-block;
-    width: 40%;
-}
-
-nav.navbar > div.navbar-right {
-    float: right;
-    text-align: right;
-}
-
-div.navbar-right a, div.navbar-right span {
-    margin: 8px;
-    font-weight: 300;
-    background-color: transparent;
-    color: var(--fg3);
-    text-decoration: none;
-}
-
-div.navbar-right a.active {
-    color: var(--accent);
-    font-weight: 400;
-    text-shadow: 1px 0px 8px;
-}
-
-div.navbar-right a:hover {
-    color: var(--fg0);
 }
