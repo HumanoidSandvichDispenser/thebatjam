@@ -1,5 +1,5 @@
 ---
-title: "What is ForsenLevel?"
+title: "What is ForsenLevel? The meaning behind a mysterious emote"
 date: 2022-07-12
 category: guide
 tags:

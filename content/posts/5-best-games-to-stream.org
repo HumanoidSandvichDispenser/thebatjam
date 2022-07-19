@@ -25,7 +25,7 @@ cover: "/img/desk.png"
 
 If you are a gamer, you might have heard of the term /live streaming/. Live
 streams broadcasts video over the internet, and some live-streamers broadcast
-themselves playing video games. /Twitch/ is a live-streaming platform where
+themselves playing video games. /[[https://twitch.tv/][Twitch]]/ is a live-streaming platform where
 broadcasters can broadcast themselves playing video games or watching movies.
 
 Live-streaming allows you to play your favorite video games, develop a fan base,
