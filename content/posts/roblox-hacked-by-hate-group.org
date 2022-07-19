@@ -1,0 +1,60 @@
+---
+title: "Roblox Hacked by Hate Group"
+date: 2022-07-18T21:05:34-07:00
+category: news
+tags:
+- roblox
+- leak
+- cybersecurity
+keywords:
+- roblox
+- leak
+- cybersecurity
+- hack
+- hacked
+- hate
+author: "Haruto"
+cover: "https://i.ytimg.com/vi/_jLwvq1vFCA/maxresdefault.jpg"
+---
+
+[[https://roblox.com][Roblox]], a popular online gaming platform
+ was recently attacked by a hate group and had many confidential 
+documents leaked. 
+
+* How was Roblox Hacked?
+
+It has been revealed that a Roblox employee had their personal computer
+compromised through a type of malware called a RAT (Remove Administration Tool). 
+Which gives the attacker full access over the computer. 
+
+* Who were the Hackers?
+
+The group behind this attack was allegedly a company hired by Roblox to test for 
+security vulnerabilities. The exact motives behind this attack is unknown but 
+it can be assumed within reason that the hackers were racist. 
+
+The leak was revealed on [[https://breached.to/Thread-Roblox-June-2022-documents-leak][online forums in the Dark Web]] where criminal activity 
+is rampant. Racism, sexism, and homophobia is also quite common on these sites. 
+
+#+begin_export html
+<center>
+<img src="https://pyxis.nymag.com/v1/imgs/8c8/ea5/f39d63d20eb999b482ec69b5cf9bc29f73-25-4chan-04.2x.w710.jpg" width="500">
+</center>
+#+end_export
+
+* What was Leaked? 
+
+The leak included the earnings of various Roblox influencers, documents regarding 
+Terms of Service (ToS), and the cash earned by games on Roblox. The most controversial 
+leak was the identities of people who signed up for voice communication. 
+
+Many of these people who had their identities leaked were PoC (People of Color) and 
+women, further proof of the racist and sexist motives of the hackers. Also, many of 
+the leaked documents also contained many slurs and offensive terminology.
+
+* What Does this Mean for Roblox? 
+
+With this leak Roblox will likely be much more careful and strict with its policies. 
+This is also another omen to the rapidly booming cybersecurity industry where advanced 
+security techniques such as blockchain is being used to prevent Hackers from gaining access 
+to confidential documents. 
