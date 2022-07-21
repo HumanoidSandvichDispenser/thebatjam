@@ -8,6 +8,11 @@ const names = {
         "Sith",
         "Padme",
         "Jawa",
+        "DeathStar",
+        "Mandalorian",
+        "Chewbacca",
+        "Force",
+        "DarthMaul",
         "Batchest"
     ],
     superheroes:
@@ -43,6 +48,11 @@ const names = {
         "Leviculus",
         "Morus",
         "Malignus",
+        "Aves",
+        "Humanus",
+        "Corpus",
+        "Spaghettus",
+        "Amongus",
         "Retardus"
     ],
     adjectives: [
@@ -52,7 +62,12 @@ const names = {
         "Awesome",
         "Silly",
         "Crazy",
-        "Insane"
+        "Insane",
+        "Nice",
+        "Pleasant",
+        "Hilarious",
+        "Jolly",
+        "Wacky",
     ],
     wakaliwood: [
         "Supa",
