@@ -12,6 +12,8 @@ keywords:
 - cybersecurity
 - hack
 - hacked
+- racist
+- racism
 - hate
 author: "Haruto"
 cover: "https://i.ytimg.com/vi/_jLwvq1vFCA/maxresdefault.jpg"
