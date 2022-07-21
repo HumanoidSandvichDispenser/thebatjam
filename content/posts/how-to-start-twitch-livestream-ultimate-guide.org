@@ -1,0 +1,295 @@
+---
+title: "Earn fame and fortune - How to Start Twitch Livestream (Ultimate Guide)"
+date: 2022-07-19T21:05:34-07:00
+category: guide
+tags:
+- twitch
+- streaming
+- diy
+keywords:
+- stream
+- twitch
+- how
+- start
+- livestream
+author: "Natsuo"
+cover: "https://preview.redd.it/9q9msnease081.jpg?width=640&crop=smart&auto=webp&s=546ae3dd0b1ce24f058339b00b9290f59d74db83"
+---
+
+Livestreaming has become quite popular on the world wide web and is becoming a
+viable  form of media to expand your business and grow your customer base. This
+guide will show  all the steps necessary to become a proper live broadcaster.
+
+It can perhaps be said that the grandfather of livestreaming is television, as
+it offers a live broadcast to an audience. However, live streaming is different
+as it exists on the  internet and features exclusively live content.
+
+The first form of livestreaming occured in 1995 when RealNetworks developed a
+media player capable of  livestreaming. The first public live stream was a
+broadcast of a baseball game between the New York Yankees and  the Seattle
+Mariners and was a minor success.
+
+Livestreaming has expanded rapidly since then with the creation of sites  such
+as Chatturbate. However, it was YouTube that truly blew up the live streaming
+industry.
+
+In 2008, [[https://YouTube.com][YouTube]] hosted its first live event, named YouTube Live.  Since then,
+YouTube Live has become a popular platform with many famous people such as
+Sykkunno, who is known for his GTA livestreams and feminine demeanor.
+
+Even though it was a moderate success YouTube Live failed to gain much
+popularity. Popular  Twitch streamer Felix Lengyel (xQc) explained that YouTube
+lacked the interaction that Twitch  offered.
+
+#+begin_quote
+D-d-d-dud thethingisthattidontreallythinkyuouitubehastheinfrastrucutureneccessaryformajortractiontogather
+
+--- Felix Lengyel (Twitch)
+#+end_quote
+* The Rise of Twitch
+
+Originally known as Justin.tv, [[twitch.tv][Twitch]] is now the most popular platform for
+online real-time broadcasters. Most of the streams on Twitch consist of
+In-Real-Life (IRL) interactions where streamers show their daily lives with very
+little editting.
+
+This is particularly entertaining to watch because since it is live, all the
+interactions occur at the same time you are watching it.  This allows for a more
+exciting watch as what happens next is unknown. This has lead to many hilarious
+moments that keep viewers watching.
+
+For example, the broadcasting conglomerate One-True-King (OTK) features many
+In-Real-Life (IRL) live broadcasters that entertain viewers through goofy stunts
+and esoteric jokes that only the most loyal of fans will understand.
+
+#+caption: Popular Twitch cooking streamer "Henlips1"
+[[/img/henry.png]]
+
+* How to Livestream?
+
+Livestreaming can be a very fulfilling way to spread your joy with other people
+all across the world. In order to livestream a proper stream setup will be
+needed to ensure a smooth watching experience. It can be a complex process that
+will take a significant time investment in order to become proficient.
+
+Like with many other skills, livestreaming requires time and effort and is not
+an easy task, but it will soon pay off in the long run. There are several ways
+you can start a livestream. In this tutorial, we will go over the easiest way to
+start a livestream.
+
+* Finding Your Streamer Name
+
+Every streamer has a pseudonym to go by. For example, Slots streamer Felix
+Lengyel goes by "xQc" and the 1993-94 video games champion Dr. Disrespect goes
+by "the two-time".
+
+Use this nickname generator to help find your streamer name.
+
+#+begin_export html
+<script src="/js/username-generator.js">
+console.log(pickRandom(names["wakaliwood"]));
+console.log("test");
+</script>
+
+<select name="category1" id="category1">
+    <option value="nickname">Use nickname</option>
+    <option value="starwars">Star Wars</option>
+    <option value="superheroes">Superheroes</option>
+    <option value="gamer">Gamer</option>
+    <option value="latin">Latin</option>
+    <option value="adjectives">Adjectives</option>
+    <option value="wakaliwood">Wakaliwood</option>
+</select>
+<select name="category2" id="category2">
+    <option value="nickname">Use nickname</option>
+    <option value="starwars">Star Wars</option>
+    <option value="superheroes">Superheroes</option>
+    <option value="gamer">Gamer</option>
+    <option value="latin">Latin</option>
+    <option value="adjectives">Adjectives</option>
+    <option value="wakaliwood">Wakaliwood</option>
+</select>
+<select name="category3" id="category3">
+    <option value="nickname">Use nickname</option>
+    <option value="starwars">Star Wars</option>
+    <option value="superheroes">Superheroes</option>
+    <option value="gamer">Gamer</option>
+    <option value="latin">Latin</option>
+    <option value="adjectives">Adjectives</option>
+    <option value="wakaliwood">Wakaliwood</option>
+</select>
+<br>
+<input placeholder="Your nickname" id="nickname"></input>
+<br>
+<button onclick="generateUsername()">Generate my username</button>
+<div>Your username: <span id="generated-username"></span></div>
+#+end_export
+
+* Creating a Twitch Account
+
+In order to start livestreaming, you must create a Twitch account. Head to
+[[Twitch.tv]] and click "Sign Up" on the top right. You must fill out all the
+required fields.
+
+For the username, you use the streamer name that you have come up with. /Use the
+username generator provided above if you don't have a streamer name yet./ Once
+you create an account, you are now in the world of Twitch! You can watch other
+people's livestreams or start creating your own, which we will do in this
+tutorial.
+
+This Twitch account will be used for livestreaming. You should make sure this
+account is kept secure with a strong password to reduce the chance that it will
+be compromised. If you lose your Twitch account, you will lose access to
+streaming and all of your followers as well.
+
+After we have created our Twitch livestreaming account, we must install
+broadcasting software. For this tutorial, we will be using OBS Studio.
+
+* Installing OBS Studio
+
+OBS Studio is a free and source program you can download to start your
+livestream. All you need is a computer that can download and install software.
+Depending on your operating system, there are different ways to install OBS
+Studio.
+
+** Installing for Windows
+
+*** Step 1: Go to OBS website
+
+The OBS Studio website is located at [[https://obsproject.com]]
+
+*** Step 2: Click "Download for Windows"
+
+The installer will soon download shortly.
+
+*** Step 3: Open the installer
+
+The installer will now open and begin the installation process.
+
+*** Step 4: Install
+
+Follow all the steps on the installer.
+
+*** Step 5: Wait while it installs
+
+It will take some time for OBS to install. Please wait for a few minutes while it installs.
+
+*** Stpe 6: Finish installation
+
+Click "Finish" to finish the installation process and close the installer.
+
+** Installing for macOS
+
+Unfortunately, we aren't able to give instructions on how to install OBS Studio
+for macOS. Hopefully you will receive Advice soon.
+
+** Installing for Linux
+
+There are many, several steps you have to go through to install OBS Studio on
+Linux. Here are all the steps on how to install.
+
+*** Step 1: Ubuntu, Debian, and "debian-based distributions"
+
+#+begin_src shell
+add-apt-repository ppa:obsproject/obs-studio
+apt update
+apt install obs-studio
+#+end_src
+
+*** Step 2: Debian, Mint, etc.
+
+#+begin_src shell
+add-apt-repository ppa:obsproject/obs-studio
+apt update
+apt install obs-studio
+#+end_src
+
+*** Step 3: Use "Apt" Command
+
+#+begin_src shell
+apt install obs-studio
+#+end_src
+
+*** Step 4: Linux Arch OS
+
+#+begin_src shell
+pacman -S obs-studio
+#+end_src
+
+*** Step 5: Linux Manjaro
+
+#+begin_src shell
+pamac install obs-studio
+pacman -S obs-studio
+#+end_src
+
+
+*** Step 6: Use Pacman Command
+
+#+begin_src shell
+pacman -S obs-studio
+#+end_src
+
+*** Step 7: Fedora
+
+#+begin_src shell
+dnf install obs-studio
+#+end_src
+
+*** Step 8: Gentoo
+
+#+begin_src shell
+emerge media-video/obs-studio
+#+end_src
+
+*** Step 9: Use "sudo" command
+
+#+begin_src shell
+sudo apt-get install obs-studio
+#+end_src
+
+* Set up OBS Studio
+
+In order to get video working on OBS Studio, you must create a /Scene/. A Scene
+is a collection of /Sources/ which will display content onto the Scene. Create a
+new Scene and add a new Source to it. This Source should be a Game Capture
+source if you are streaming a video game, or a Desktop capture if you are
+reacting to content.
+
+When you have finished your Scene, check your settings for bitrate, etc. These
+affect the quality of your stream. The higher your bitrate is, the higher the
+quality your stream is, which will attract more viewers.
+
+You can set your stream FPS so viewers get the smoothest experience, especially
+on react content. Try to set this to at least 120 to make your stream look
+faster.
+
+* Get Your Stream Key
+
+Your stream key allows OBS to stream to Twitch servers. In order to stream, you
+need a stream key. You can retrieve a stream key free of charge by Twitch. Click
+[[https://link.twitch.tv/myChannelSettings][here]] to retrieve your stream key.
+
+Go to the stream tab on the left, and you will see your stream key. Please keep
+your stream key confidential and store it in a text file in case you lose it.
+Stream keys are like passwords; only you should have access to them.
+
+Now you should copy your stream key and open the "Notepad" application or
+equivalent on your computer. After it has opened, paste your stream key and save
+the file. Save this file in a safe place such as Desktop.
+
+Now go to OBS, and go to the Stream tab. Paste your stream key and make sure
+your livestreaming service is Twitch. After you have finished pasting your
+stream key onto OBS, you should save your settings. Your OBS software is now
+ready for streaming to Twitch.
+
+* Start Streaming
+
+Make sure that your OBS shows your intended application when streaming. What
+pops up in the stream will be what your viewers see. You can add other effects
+such as Text and GIFs to spice up the stream. You can also add post-processing
+effects to enhance the quality of your stream.
+
+When you are satisfied with the quality of your stream, click "Start Streaming"
+and you will have successfully started a livestream on Twitch! Good luck on your
+journey to becoming the next top Twitch streamer.
