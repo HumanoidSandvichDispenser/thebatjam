@@ -30,6 +30,7 @@
     --sans-serif: "Quicksand", "Segoe UI", "Cantarell", sans-serif, Arial;
     --serif: "Source Serif Pro", serif;
     --content-gap: 36px;
+    --h4-gap: 16px;
     --small-gap: 8px;
 }
 
@@ -124,14 +125,22 @@ small i {
 }
 
 h1 {
-    font-size: 56px;
+    font-size: 3rem;
 }
 
 h2 {
-    font-size: 36px;
+    font-size: 2rem;
 }
 
-h2, h3, h4 {
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    margin-bottom: var(--h4-gap);
+}
+
+h2, h3 {
     margin-bottom: var(--content-gap);
 }
 
@@ -162,6 +171,15 @@ blockquote {
     border-inline-start: 3px solid var(--fg1);
     padding-left: 16px;
     margin-left: 0;
+}
+
+code {
+    font-size: 14px;
+}
+
+code, code span {
+    background-color: var(--bg1);
+    color: var(--fg1);
 }
 
 header hr {

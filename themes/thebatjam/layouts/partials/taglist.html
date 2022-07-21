@@ -5,7 +5,7 @@
 {{- with .Site.Params.relatedtext }}{{ . }}<br>{{ end -}}
         {{- range $k, $v := .Params.tags -}}
         {{- $url := printf "tags/%s" (. | urlize) -}}
-        <a class="tag large" id="tag_{{ . | lower }}" href="{{ $url | absURL }}">{{ . }}</a>
+    <a class="tag large" id="tag_{{ . | lower }}" href="{{ $url }}">{{ . }} {{ $url }}</a>
         {{- if lt $k (sub $tagsLen 1) }} {{ end -}}
         {{- end -}}
 </div>

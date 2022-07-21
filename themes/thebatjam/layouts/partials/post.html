@@ -1,12 +1,12 @@
 <div class="post">
     <div class="column thumbnail">
-        <a href="{{ .Permalink }}">
+        <a href="{{ .RelPermalink }}">
             <img src='{{ .Param "cover" }}'>
         </a>
     </div>
     <div class="column right">
         <div>
-            <a href="{{ .Permalink }}" class="post-title">
+            <a href="{{ .RelPermalink }}" class="post-title">
                 {{ .Title }}
             </a>
         </div>
