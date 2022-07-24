@@ -1,0 +1,126 @@
+---
+title: "Summoner whips should be removed from Terraria"
+date: 2022-07-23T23:31:33-07:00
+category: opinion
+tags:
+- terraria
+keywords:
+- terraria
+- whip
+- whips
+- mod
+- modded
+- mods
+- worst
+- class
+- summoner
+- avoid
+author: "BoldBlokeMask"
+cover: "/img/summoner.png"
+---
+
+If you have played Terraria, it is like a 2D Minecraft. You can build, craft,
+and fight monsters in your sandbox adventure game. However, this game has mods,
+and one of them being /Calamity/. Calamity is a mod that adds significantly more
+content to the Terraria base game. It is sort of like an expansion pack for
+Terraria, but for free.
+
+In Calamity, there are five available classes you can play: Melee, Ranged,
+Magic, Summoner, and Rogue. These five classes have distinct playstyles and have
+different skillsets you need to use them effectively. For example, melee needs
+to have good health management. They have to keep track of when their health is
+going down. Ranged needs to have good distance management. If they get too
+close, they will get attacked. Magic needs to have good timing. They have to
+precisely time their magic attacks so they do not waste their mana. Rogue
+requires patience. If you aren't a patient player and just loves to attack,
+rogue wouldn't be a good class to play.
+
+However, summoner is the least skilled class to play. You can do lots of damage
+without any real effort. You just have to get near the boss to even attack them.
+This class virtually takes no skill and isn't even efficient at killing bosses.
+
+After the 1.4 update, whips were added to try to make pure summoner more viable
+to play. These whips can help your minions deal more damage to priority targets
+and inflict debuffs. However, whips aren't really a good solution for the pure
+summoner problem. There are many problems with whips that have ruined the
+Terraria experience.
+
+* Whips are just a glorified melee
+
+If you have played with a whip as a summoner, you will see that whips are
+basically like flails. You throw them at a specific direction to deal damage at
+that direction. This is just a fancy way for summoners to play melee. It doesn't
+add any depth to the summoner class at all and instead uses an existing game
+mechanic and applies it to summoners. It is rather a lazy implementation by
+Re-Logic.
+
+Whips would be most suited for melee characters. If you removed the summoner
+damage from whips, people would see it as a melee weapon. Of course, adding
+summoner damage would just be a simple way to make a summoner weapon instea dof
+an actual reworking of summoner.
+
+The developers could have added whips as a new flail weapon for melee, but
+instead, they made it a summoner weapon. Instead of rebalancing the actual
+summoner mechanics, they just applied an easy fix by using weapons that wouldn't
+belong to a summoner.
+
+* Whips ruin the entire point of summoner
+
+Many summoner mains know that the best way to play summoner is to let your
+minions fight while you maintain a distance from the boss. However, whips limit
+you to stay as close as possible to the boss and attack them directly. You have
+to get close to the boss to deal damage with whips, and you aren't just letting
+your minions do the damage; you are also dealing damage with the whips. The
+implementation of whips have ruined the way summoner should be played.
+
+If whips were made longer, this would remedy the issue a bit; however, it
+doesn't change the fact that it's simply a melee weapon that does summoner
+damage. The summoner would still be basically playing a longer range melee class
+that has helpers do a bit more damage.
+
+* Whips make summoner even less skilled
+
+#+caption: 25k DPS by simply holding left click? Really?
+[[/img/summoner-skill.jpg]]
+
+Summoner is the least skilled class in Terraria; everyone knows that's a fact.
+However, adding whips makes it even less skilled. Your already skill-less class
+is having the computer do the aiming and shooting for you, and using a whip
+would simply let them do their job even better. This means that you can achieve
+a high DPS by simply having your minions around and meleeing the enemies. You
+literally just hold left click in order to double your damage.
+
+In addition, 1.4 introduces a new mechanic called /whip-stacking/, where you can
+use multiple whips to inflict multiple debuffs. This literally only takes 3
+button presses to even use this whip-stack mechanic. It doesn't matter if you're
+7 or 77 years old, you will still be able to beat Terraria with summoner.
+
+Terraria is a sandbox game that anyone can pick up, but it takes years to master
+and to get good at. Many people study this game in and out, with playtime
+greater than 10000. These people have demonstrated how skilled you can get at
+the game, and it has proven that Terraria is a skill-based Minecraft bullet
+hell.
+
+* Whips are boring
+
+Who doesn't love holding your mouse button over the same place, right? Whips are
+the most uninteresting and unengaging. Other classes, like ranged amd magic,
+requires you to have good management skills and keep an eye on your resources,
+such as ammo and mana. This creates for more ways to handle fights. How
+conservative should you be with your resources? When should you attack and when
+should you stay away? And with melee, you have to tank damage efficiently and
+find a good strategy to aggro the boss away from your team.
+
+With summoner, all you're thinking about is your health. That's it. You are just
+holding left click. There is nothing engaging about that. Maybe dodge a couple
+of times, but that's it. A better alternative would be to let minions deal more
+damage during their initial summon. That way, players can summon minions on
+enemies to deal extra damage and make summoner gameplay more interesting.
+
+* In conclusion...
+
+The three clases melee, ranger, and mage have been balanced in Terraria since
+its initial release, but summoner has been left in the dust. Pre 1.4, they were
+not a viable class to play, but post 1.4, they became one of the strangest class
+to exist. It's an amalgamation of melee and magic that introduces weird gameplay
+mechanics to ruin the skill and purpose of summoner.
