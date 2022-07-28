@@ -1,0 +1,110 @@
+---
+title: "3 Streamers Who Could Join OTK"
+date: 2022-07-28T00:49:44-07:00
+draft: true
+category: review
+tags:
+- twitch
+- otk
+keywords:
+- hasan
+- hasanabi
+- forsen
+- henlips1
+- henry
+- twitch
+- otk
+- organization
+- stream
+- streaming
+author: "E. Gekayo"
+cover: "/img/forsen-otk.png"
+---
+‍
+As the gaming world evolved, streamers emerged as a new form of content
+consumption. Viewers enjoy watching live streams of players and casters
+performing games that they can’t play in real life. These streamers also
+generate revenue from their streams, so they are more than just hobbyists; they
+are entrepreneurs who operate businesses that cater to their audience. Many of
+these streamers join organizations to maximize their growth and business,
+including the One True King (OTK) organization.
+
+With the recent addition of Sodapoppin into OTK, many fans of various streamers
+have wondered the possibilities with their streamer also joining OTK.  article,
+we will discuss some of the most prominent streamers and if they have the
+potential to join the One True King (OTK) streamer network/organization.
+
+OTK is an organization established by several gaming personalities with similar
+goals and interests. The objective is to create an ecosystem where streamers can
+prosper while aligning their interests so they don’t end up competing against
+one another for viewers or sponsorships. As such, anyone interested in joining
+should know what it takes and what responsibilities come with it. Here are three
+streamers who seem best fit for joining OTK.
+
+* HasanAbi
+
+#+begin_export html
+<figure>
+<img src="/img/hasan.webp">
+</figure>
+#+end_export
+
+HasanAbi is one of the rising stars in the streaming world and he is a
+jack-of-all-trades in terms of the games he can play. He plays all the popular
+games with a wide range of genres and is a popular debater. He is very
+entertaining and he has a very affable charm that makes him extremely likeable.
+Even during serious discussions, he maintains a level personality (see: [[/posts/what-is-forsen-level/][What is
+ForsenLevel?]]) and reasonable attitude. He has been a regular on the streaming
+circuit for a few years and he has built a solid following.
+
+It would make sense for OTK to recruit him for their organization because he has
+the content base, the expertise, the charisma, a self-controlled attitude, and
+the audience to be a major player in the space. He is definitely the kind of
+streamer that OTK needs to expand its reach and solidify its dominance in the
+gaming streaming scene.
+
+* Forsen
+
+[[/img/forsen-chin.jpg]]
+
+Forsen is a world-renowned and talented streamer who has been around for a long
+time. He plays a wide variety of games with a focus on competitive titles. He is
+a consistent and frequent streamer who has carved out a niche in the competitive
+gaming scene. He plays games like Valorant, Counter-Strike: Global Offensive,
+and other competitive games. He plays games that have a large competitive
+following and he often competes against top professional players in the games he
+plays.
+
+It is not just his pure skill in video games that he has to offer; he has also
+built a loyal audience that follows his every move in the competitive gaming
+world. He always manages to find a fan in every single of his game, whether it
+was Counter-Strike: Global Offensive or Just Chatting. His dedicated fanbase has
+shown he has what it takes to become a streamer.
+
+This has given him significant clout in the streaming community and he has
+become a very well-known name in the industry. Many consider him a veteran
+streamer who has been around the streaming scene for a long time and has seen
+the rise of Twitch and the gaming streaming scene. He has proven to be a
+consistent and reliable streamer who has carved out a niche for himself in the
+competitive gaming space. He is exactly the kind of streamer that OTK needs to
+further solidify its dominance in the gaming space.
+
+* Henlips1
+
+[[/img/henrys-kitchen.jpg]]
+
+Henlips1 or Henry Philips is a rising gaming personality who has become famous
+for his cooking videos on YouTube. He has recently made the transition to
+streaming and he has started to dive into the gaming space. He is also very
+charismatic and he has shown that he has the natural charm and on-screen
+presence to become a major gaming personality.
+
+#+caption: Henry Philips on streaming on Twitch
+#+begin_export html
+<iframe src="https://clips.twitch.tv/embed?clip=OpenWiseGazelleFutureMan-uEsSkYZ0zX2_grZI&parent=sandvich.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+#+end_export
+
+He has cultivated a loyal following on YouTube and he has managed
+to extend the reach of his content to Twitch. Now, he is a rising name in the
+streaming space and he is definitely the kind of streamer that OTK wants to
+recruit to become a part of the organization.
