@@ -17,6 +17,7 @@ keywords:
 - forsen
 author: "Mikko"
 cover: "https://i.ibb.co/yXctVrg/velcuz.png"
+featured: true
 ---
 
 The Finnish Twitch streamer "Velcuz" has raided and crashed a small stream by
@@ -37,6 +38,7 @@ Outdoors on Twitch.tv
 #+end_export
 
 #+begin_export html
+<br>
 <iframe src="https://clips.twitch.tv/embed?clip=BusyNurturingHippoPicoMause-32woULKvnFAQv0ae&parent=sandvich.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 #+end_export
 

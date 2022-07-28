@@ -15,6 +15,7 @@ keywords:
 - bttv
 cover: "https://i.ibb.co/4NP38Yc/forsen-Is-Leveled.png"
 author: "E. Geyako"
+featured: true
 ---
 
 If you're a gamer, you've probably heard of the livestreaming platform Twitch.tv

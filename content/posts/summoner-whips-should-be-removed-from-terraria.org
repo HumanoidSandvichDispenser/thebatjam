@@ -1,6 +1,7 @@
 ---
 title: "Summoner whips should be removed from Terraria"
 date: 2022-07-23T23:31:33-07:00
+featured: true
 category: opinion
 tags:
 - terraria

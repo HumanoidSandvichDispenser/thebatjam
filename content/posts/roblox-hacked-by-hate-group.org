@@ -17,6 +17,7 @@ keywords:
 - hate
 author: "Haruto"
 cover: "https://i.ytimg.com/vi/_jLwvq1vFCA/maxresdefault.jpg"
+featured: true
 ---
 
 [[https://roblox.com][Roblox]], a popular online gaming platform

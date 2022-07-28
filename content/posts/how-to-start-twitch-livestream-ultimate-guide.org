@@ -14,6 +14,7 @@ keywords:
 - livestream
 author: "Natsuo"
 cover: "https://preview.redd.it/9q9msnease081.jpg?width=640&crop=smart&auto=webp&s=546ae3dd0b1ce24f058339b00b9290f59d74db83"
+featured: true
 ---
 
 Livestreaming has become quite popular on the world wide web and is becoming a
@@ -48,7 +49,7 @@ D-d-d-dud thethingisthattidontreallythinkyuouitubehastheinfrastrucutureneccessar
 #+end_quote
 * The Rise of Twitch
 
-Originally known as Justin.tv, [[twitch.tv][Twitch]] is now the most popular platform for
+Originally known as Justin.tv, [[https://twitch.tv][Twitch]] is now the most popular platform for
 online real-time broadcasters. Most of the streams on Twitch consist of
 In-Real-Life (IRL) interactions where streamers show their daily lives with very
 little editting.
