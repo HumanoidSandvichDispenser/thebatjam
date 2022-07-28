@@ -19,7 +19,7 @@ keywords:
 - emote
 - emotes
 author: "E. Geyako"
-cover: ""
+cover: "/img/okayeg-nft.png"
 ---
 
 The Twitch streaming experience is all about finding new favorite broadcasters,
