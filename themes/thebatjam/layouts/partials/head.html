@@ -18,20 +18,20 @@
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:description" content="{{ .Summary }}" />
     {{ if (isset .Params "cover") }}
-    <meta property="og:image" content='{{ .Param "cover" }}' />
-    <meta content="#cf296f" data-react-helmet="true" name="theme-color" />
-    <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:image" content='{{ .Param "cover" }}' />
+        <meta content="#cf296f" data-react-helmet="true" name="theme-color" />
+        <meta name="twitter:card" content="summary_large_image">
     {{ end }}
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.0/font/bootstrap-icons.css">
     <link rel="canonical" href="{{ .Permalink }}" />
 	<title>
-        {{ if not .IsHome }}
+        {{- if not .IsHome }}
             {{ .Title }} |
-        {{ end }}
-        {{ .Site.Title }}
-        {{ if .IsHome }}
+        {{ end -}}
+        {{- .Site.Title -}}
+        {{- if .IsHome }}
             - Gaming News, Guides, etc.
-        {{ end }}
+        {{ end -}}
     </title>
 </head>

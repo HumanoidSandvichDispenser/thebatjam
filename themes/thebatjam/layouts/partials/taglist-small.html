@@ -2,12 +2,11 @@
     {{- $tagsLen := len .Params.tags -}}
     {{- if gt $tagsLen 0 -}}
 <span style="clear:both" class="taglist">
-{{- with .Site.Params.relatedtext }}{{ . }}<br>{{ end -}}
+    {{- with .Site.Params.relatedtext }}{{ . }}<br>{{ end -}}
         {{- range $k, $v := .Params.tags -}}
-        {{- $url := printf "tags/%s" (. | urlize) -}}
+        {{- $url := printf "/tags/%s" (. | urlize) -}}
         <a class="tag small" id="tag_{{ . | lower }}" href="{{ $url }}">#{{ . }}</a>
-        {{- if lt $k (sub $tagsLen 1) }} {{ end -}}
-        {{- end -}}
+    {{- end -}}
 </span>
     {{- end -}}
 {{- end }}

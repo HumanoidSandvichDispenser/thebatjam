@@ -21,14 +21,13 @@
             <tr id="info-reading-time">
                 <td><i class="bi bi-hourglass"></i></td>
                 <td>
-                    {{ $readingTime := .ReadingTime }}
-                    {{ $readingTime }}
-                    {{ if gt $readingTime 1 }}
-                        minutes
-                    {{ else }}
-                        minute
-                    {{ end }}
-                    read
+                    {{ .ReadingTime }}-minute read
+                </td>
+            </tr>
+            <tr id="info-tags">
+                <td><i class="bi bi-tag"></i></td>
+                <td>
+                    {{- partial "taglist-small.html" . -}}
                 </td>
             </tr>
         </table>
@@ -37,8 +36,6 @@
         <img src='{{ .Param "cover" }}'>
     </figure>
     {{ .Content }}
-    <strong>Tags:</strong> {{ partial "taglist-small.html" . -}}
-    <br>
     <br>
     <!--{{ partial "nextprev.html" . -}}-->
     {{ template "_internal/disqus.html" . }}

@@ -209,11 +209,20 @@ div.single-info .material-icons {
     font-size: 2px;
 }
 
+#info-tags a.tag {
+    color: var(--fg3);
+    margin-right: 0.5rem;
+}
+
+#info-tags a.tag:hover {
+    color: var(--bg0);
+}
+
 div.taglist a.tag {
     background-color: var(--bg1);
     color: var(--fg3);
     text-decoration: none;
-    padding: 8px 16px 8px 16px;
+    padding: 8px 16px;
     border-radius: 8px;
     border: 1px solid var(--bg2);
     transition-duration: 200ms;
@@ -226,12 +235,12 @@ div.taglist a.tag:hover {
 
 a.tag.small {
     color: var(--fg0);
+    margin-right: 0.5rem;
     text-decoration: none;
 }
 
 a.tag.small:hover {
     color: var(--bg0);
-    font-weight: 700;
 }
 
 a.tag.large {
