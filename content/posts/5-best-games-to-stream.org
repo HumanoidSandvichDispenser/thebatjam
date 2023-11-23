@@ -19,6 +19,11 @@ keywords:
 - broadcast
 - top 5
 - top 10
+- minecraft
+- valorant
+- just chatting
+- csgo
+- hot tubs
 author: "John Jekyll"
 cover: "/img/desk.png"
 ---
