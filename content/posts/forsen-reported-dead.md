@@ -25,7 +25,7 @@ of humor, skill, and charismatic personality made him a standout presence in
 the world of online gaming. However, the community was left in shock as news
 spread of his untimely demise due to complications related to hypoglycemia.
 
-https://www.reddit.com/r/forsen/comments/1814bfz/in_regards_to_recent_events/
+{{< reddit-post crumbs="r/forsen/comments/1814bfz/in_regards_to_recent_events" title="In Regards to Recent Events" >}}
 
 # "I'm pretty sick"
 
